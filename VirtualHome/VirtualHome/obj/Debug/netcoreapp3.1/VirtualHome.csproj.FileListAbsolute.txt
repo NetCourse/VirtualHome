@@ -1,0 +1,13 @@
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.exe
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.deps.json
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.runtimeconfig.json
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.runtimeconfig.dev.json
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.dll
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\bin\Debug\netcoreapp3.1\VirtualHome.pdb
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.csprojAssemblyReference.cache
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.AssemblyInfoInputs.cache
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.AssemblyInfo.cs
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.csproj.CoreCompileInputs.cache
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.dll
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.pdb
+C:\Users\xz435xp\Documents\GitHub\VirtualHome\VirtualHome\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.genruntimeconfig.cache
