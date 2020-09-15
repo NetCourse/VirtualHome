@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace VirtualHome
 {
@@ -8,16 +10,20 @@ namespace VirtualHome
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Weird World!");
-            var home = HouseBuilder.BuildHome();
+            var Home = HouseBuilder.BuildHome();
+            var Items = DeviceManager.GenerateDevices();
 
-            //DeviceManager.GenerateDevices();
+            var Bedrooms = HouseBuilder.GetBedrooms(Home);
+            var BedroomLamps = DeviceManager.GenerateBedroomLamps(Bedrooms);
 
-            Devices.Light Nightlamp = new Devices.Light("Nightlamp");
-            Devices.Light Desklamp = new Devices.Light("Desklamp");
-            Devices.Oven Oven = new Devices.Oven("Oven");
+            Console.WriteLine("Here are the Bedroom Lamps:");
+            foreach (var Lamp in BedroomLamps)
+            {
+                Console.WriteLine(Lamp.Name);
+            }
+            
 
-            //Nightlamp.Assign(home[home.IndexOf("Bedroom")]);
+
 
         }
     }
